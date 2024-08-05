@@ -1,4 +1,4 @@
-# Analisis, limpieza y transformacion de datos de peliculas y series de Netflix
+# Analisis, limpieza y visualizacion de datos de peliculas y series de Netflix
 
 ## Caracteristicas del dataset
 Netflix es una de las plataformas de streaming mas populares del mundo. Contiene en su catalogo mas de 8000 peliculas y series disponibles, y cuenta con millones de suscriptores a lo largo de todo el mundo.
